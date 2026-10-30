@@ -23,7 +23,7 @@ pip install pySidraData
 Alternatively, you can install it from the source:
 
 ```bash
-git clone https://github.com/nandevers/pySidraData.git
+git clone https://github.com/nandolab/pySidraData.git
 cd pySidraData
 pip install .
 ```
@@ -60,9 +60,9 @@ Start with the [example notebook](examples/examples.ipynb), the source in [pySid
 
 ## Contributing
 
-We welcome contributions to `pySidraData`! If you have an idea for a feature or have found a bug, please check our [contributing guidelines](https://github.com/nandevers/pySidraData/blob/main/CONTRIBUTING.md) before you start. Here are some ways you can contribute:
+We welcome contributions to `pySidraData`! If you have an idea for a feature or have found a bug, please check our [contributing guidelines](https://github.com/nandolab/pySidraData/blob/main/CONTRIBUTING.md) before you start. Here are some ways you can contribute:
 
-- **Reporting Bugs**: Use the [issue tracker](https://github.com/nandevers/pySidraData/issues) to report any bugs you find.
+- **Reporting Bugs**: Use the [issue tracker](https://github.com/nandolab/pySidraData/issues) to report any bugs you find.
 - **Feature Requests**: If you have an idea for a new feature, please submit it as an issue with the label `enhancement`.
 - **Pull Requests**: If you want to contribute code, fork the repository and create a pull request with your changes.
 - **Documentation**: Help improve our documentation or add new examples.
@@ -76,7 +76,7 @@ To set up the development environment, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/nandevers/pySidraData.git
+    git clone https://github.com/nandolab/pySidraData.git
     cd pySidraData
     ```
 
@@ -119,7 +119,7 @@ flake8 pySidraData/
 
 ## License
 
-`pySidraData` is licensed under the MIT License. See the [LICENSE](https://github.com/nandevers/pySidraData/blob/main/LICENSE) file for more information.
+`pySidraData` is licensed under the MIT License. See the [LICENSE](https://github.com/nandolab/pySidraData/blob/main/LICENSE) file for more information.
 
 ## Acknowledgements
 
