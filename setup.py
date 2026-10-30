@@ -29,7 +29,7 @@ setup(
         "Operating System :: OS Independent",
     ],
     project_urls={
-        "Homepage": "https://github.com/nandevers/pySidraData",
-        "Repository": "https://github.com/nandevers/pySidraData",
+        "Homepage": "https://github.com/nandolab/pySidraData",
+        "Repository": "https://github.com/nandolab/pySidraData",
     },
 )
